@@ -12,9 +12,11 @@ USE="wayland gles2 dist-kernel"
 VIDEO_CARDS="nvidia"
 
 /etc/portage/package.mask
+
 ```>x11-drivers/nvidia-drivers-471```
 
 /etc/portage/package.use/nvidia-drivers
+
 ```x11-drivers/nvidia-drivers tools```
 
 go to nvidia settings, advanced force composition
