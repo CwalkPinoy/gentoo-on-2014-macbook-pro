@@ -9,6 +9,7 @@ https://www.amazon.com/dp/B008IFXQFU? tp-link tl-wn725n
 XFCE seems to work. MATE glitches out without proprietary drivers.
 
 USE="wayland gles2 dist-kernel"
+
 VIDEO_CARDS="nvidia"
 
 /etc/portage/package.mask
