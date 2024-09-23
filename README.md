@@ -21,3 +21,8 @@ VIDEO_CARDS="nvidia"
 ```x11-drivers/nvidia-drivers tools```
 
 go to nvidia settings, advanced force composition
+
+UTM on MacOS
+
+enable 3d acceleration
+switch display to virtio-vga-gl
